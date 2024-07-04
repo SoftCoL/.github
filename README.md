@@ -1,2 +1,2 @@
-# .github
-Organization public profile on GitHub
+# SoftCoL- Software for Comfortable Life
+
