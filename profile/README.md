@@ -1,4 +1,4 @@
-# SoftCoL- Software for Comfortable Life
+# SoftCoL - Software for Comfortable Life
 
 <!--
 
